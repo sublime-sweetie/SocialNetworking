@@ -1,5 +1,5 @@
 {
-    "name": "bc-ch-socialapi",
+    "name": "Socialnetworking",
     "version": "1.0.0",
     "description": "",
     "main": "index.js",
@@ -8,14 +8,14 @@
     },
     "repository": {
       "type": "git",
-      "url": "git+https://github.com/Ajaws2022/BC-CH-SocialAPI.git"
+      "url": "git+https://github.com/sublime-sweetie/SocialNetworking.git"
     },
     "author": "",
     "license": "ISC",
     "bugs": {
-      "url": "https://github.com/Ajaws2022/BC-CH-SocialAPI/issues"
+      "url": "https://github.com/sublime-sweetie/SocialNetworking/"
     },
-    "homepage": "https://github.com/Ajaws2022/BC-CH-SocialAPI#readme",
+    "homepage": "https://github.com/sublime-sweetie/SocialNetworking/#readme",
     "dependencies": {
       "express": "^4.18.2",
       "mongoose": "^6.0.13"
