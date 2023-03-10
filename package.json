@@ -1,0 +1,27 @@
+{
+    "name": "bc-ch-socialapi",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/Ajaws2022/BC-CH-SocialAPI.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/Ajaws2022/BC-CH-SocialAPI/issues"
+    },
+    "homepage": "https://github.com/Ajaws2022/BC-CH-SocialAPI#readme",
+    "dependencies": {
+      "express": "^4.18.2",
+      "mongoose": "^6.0.13"
+    },
+    "devDependencies": {
+      "nodemon": "^2.0.21"
+    }
+  }
+  
